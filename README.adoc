@@ -251,7 +251,7 @@ image::resources/images/deploy-local-4.png[]
 
 ICP enables a direct integration with Bitcoin and other chains without conventional bridges. This is a distinct feature only available on ICP which can make ICP an interoperable hub in the blockchain space to execute transactions and/or exchange any pair ofcrypto-currencies. However, a lot of work needs to complete the solution and bring the feature to users.
 
-In the next sprint, we are going to study Dogecoin (and/or Cardano) UTXOs and their signature schemes, then propose a feasible integration concept on ICP which is similar to the Bitcoin integration.
+In the next sprint, we are going to study Litecoin/Dogecoin (and/or Cardano) UTXOs and their signature schemes, then propose a feasible integration concept on ICP which is similar to the Bitcoin integration.
 
 
 
